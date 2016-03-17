@@ -1,0 +1,13 @@
+{
+  "name": "jquery.event.drag-drop",
+  "_cacheHeaders": {
+    "ETag": "\"42de021adebb67f0b9ff6181930aa760a89a9b34\"",
+    "Content-Length": "16302",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:42de021ad",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/GerHobbelt/jquery.threedubmedia/master/event.drag/jquery.event.drag.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/GerHobbelt/jquery.threedubmedia/master/event.drag/jquery.event.drag.js"
+}
