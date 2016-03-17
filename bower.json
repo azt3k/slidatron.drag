@@ -1,0 +1,20 @@
+{
+	"name": "slidatron.drag",
+	"version": "1.0.0",
+	"description": "jQuery component",
+	"keywords": [
+		"jquery",
+		"component",
+		"slider",
+		"sliatron",
+		"carousel",
+		"drag",
+		"drop",
+		"touch"
+	],
+	"main": "jquery.slidatron.js",
+	"license": "MIT",
+	"dependencies": {
+		"jquery": ">=1.8",
+	}
+}
